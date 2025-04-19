@@ -1,0 +1,37 @@
+server: hi
+client: hello
+server: it's me
+client: who?
+client: Image ID: 27
+server: Image ID: 28
+client: you?
+server: yes
+server: bye now
+client: ok
+client: Image ID: 29
+server: siraa
+server: Image ID: 30
+client: ok rpot bro
+server: hi
+client: hello
+server: send pic
+client: ok
+client: Image ID: 31
+server: ok
+server: bye
+client: bye
+client: hi
+server: hello
+server: its 3.50 pm bro
+client: ya i know
+server: Image ID: 32
+client: Image ID: 33
+client: ok bye then
+server: ok
+server: hi
+client: hello
+server: Image ID: 34
+server: Image ID: 35
+server: hi
+client: hello
+server: Image ID: 36
