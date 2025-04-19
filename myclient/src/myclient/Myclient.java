@@ -54,7 +54,7 @@ public class Myclient extends Application {
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/logserver";
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "Anmol@2005";
+    private static final String DB_PASSWORD = "Add your database password here";
     private static final String INSERT_IMAGE_QUERY = "INSERT INTO image_demo (image_data) VALUES (?)";
     private static final String RETRIEVE_IMAGE_QUERY = "SELECT image_data FROM image_demo WHERE image_id = ?";
     private static final String CLIENT_DB_URL = "jdbc:mysql://localhost:3306/imagedemo";    
